@@ -1,4 +1,5 @@
 /* eslint-disable prettier/prettier */
+//
 import React from 'react'
 import GaugeComponent from 'react-gauge-component'
 import { CChartDoughnut } from '@coreui/react-chartjs'
